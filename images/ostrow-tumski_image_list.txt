@@ -1,0 +1,3 @@
+ostrow-tumski1.jpg 0.003125
+ostrow-tumski2.jpg 0.00625
+ostrow-tumski3.jpg 0.0125

@@ -1,0 +1,3 @@
+mountains1.jpg 0.0015625
+mountains2.jpg 0.0004
+mountains3.jpg 0.00625

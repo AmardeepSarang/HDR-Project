@@ -1,0 +1,12 @@
+HDRI_Sample_Scene_Window_-_01.jpg 0.001
+HDRI_Sample_Scene_Window_-_02.jpg 0.002
+HDRI_Sample_Scene_Window_-_03.jpg 0.004
+HDRI_Sample_Scene_Window_-_04.jpg 0.008
+HDRI_Sample_Scene_Window_-_05.jpg 0.01666666667
+HDRI_Sample_Scene_Window_-_06.jpg 0.03333333333
+HDRI_Sample_Scene_Window_-_07.jpg 0.06666666667
+HDRI_Sample_Scene_Window_-_08.jpg 0.125
+HDRI_Sample_Scene_Window_-_09.jpg 0.25
+HDRI_Sample_Scene_Window_-_10.jpg 0.5
+HDRI_Sample_Scene_Window_-_11.jpg 1.0
+HDRI_Sample_Scene_Window_-_12.jpg 2.0
